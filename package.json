@@ -1,0 +1,22 @@
+{
+  "name": "nood.js-assignments",
+  "version": "1.0.0",
+  "description": "my nood.js assignments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emr4706/Nood.js-Assignments.git"
+  },
+  "author": "emr4706",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emr4706/Nood.js-Assignments/issues"
+  },
+  "homepage": "https://github.com/emr4706/Nood.js-Assignments#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
